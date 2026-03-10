@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="Mocha Tests" time="0.0000" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2026-03-09T17:20:18" tests="0" time="0.0000" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-03-10T16:04:58" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="SimpleApplication basic test" timestamp="2026-03-09T17:20:18" tests="1" file="C:\Users\murph\OneDrive\Documents\College Year 4\Development  Operations (Dev Ops)\DevOps CA\Simple Application\SimpleApplication\test\app.test.js" time="0.0000" failures="0">
+  <testsuite name="SimpleApplication basic test" timestamp="2026-03-10T16:04:58" tests="1" file="C:\Users\murph\OneDrive\Documents\College Year 4\Development  Operations (Dev Ops)\DevOps CA\Simple Application\SimpleApplication\test\app.test.js" time="0.0000" failures="0">
     <testcase name="SimpleApplication basic test should confirm that the test framework is working" time="0.0000" classname="should confirm that the test framework is working">
     </testcase>
   </testsuite>
