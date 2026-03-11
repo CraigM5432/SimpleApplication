@@ -3,6 +3,9 @@ set -e
 
 cd ~/SimpleApplication
 
+printf "%s" "$PRIVATE_KEY" > privatekey.pem
+printf "%s" "SERVER" > server.crt
+
 npm install
 
 pm2 stop simple_app || true
