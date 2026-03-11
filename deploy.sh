@@ -3,8 +3,8 @@ set -e
 
 cd ~/SimpleApplication
 
-printf "%s" "$PRIVATE_KEY_B64" | base64 -d > privatekey.pem
-printf "%s" "$SERVER_B64" | base64 -d > server.crt
+printenv PRIVATE_KEY_B64 | base64 -d > privatekey.pem
+printenv SERVER_B64 | base64 -d > server.crt
 
 npm install
 

@@ -38,7 +38,7 @@ jobs:
           paths:
             - ./node_modules
 
-    deploy:
+  deploy:
     docker:
       - image: cimg/node:20.11
     steps:
